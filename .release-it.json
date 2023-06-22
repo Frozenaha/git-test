@@ -1,0 +1,16 @@
+{
+  "github": {
+    "release": true
+  },
+  "git": {
+    // 生成tag的提交信息,
+    //注意要在`.commitlint.config.js`中添加`'release', // 发布版本`
+    "commitMessage": "release: v${version}"
+  },
+  "npm": {
+    "publish": true
+  },
+  "hooks": {
+    "after:bump": "echo 更新版本成功"
+  }
+}
