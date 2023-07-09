@@ -1,5 +1,14 @@
 
 
+### [0.0.3](https://github.com/Frozenaha/git-test/compare/0.0.2...0.0.3) (2023-07-09)
+
+
+### ✨新功能
+
+* 烦烦烦 ([df2d7df](https://github.com/Frozenaha/git-test/commit/df2d7df91654f00fe15f2a87303c2a858d3aad8c))
+* delete ([e801438](https://github.com/Frozenaha/git-test/commit/e80143830b915b41887ed2fe028ec0c791796c22))
+* release version ([6a4cd49](https://github.com/Frozenaha/git-test/commit/6a4cd4927df3e15a43a944a98174f6fe90ff9e1f))
+
 ### [0.0.2](https://github.com/Frozenaha/git-test/compare/ls...0.0.2) (2023-07-09)
 
 ### 0.0.1 (2023-06-22)
