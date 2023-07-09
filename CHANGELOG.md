@@ -1,5 +1,12 @@
 
 
+### [0.0.4](https://github.com/Frozenaha/git-test/compare/0.0.3...0.0.4) (2023-07-09)
+
+
+### ✨新功能
+
+* 6b需求 ([dfa2884](https://github.com/Frozenaha/git-test/commit/dfa28843f61467f8370f07593e33b5a7239444c2))
+
 ### [0.0.3](https://github.com/Frozenaha/git-test/compare/0.0.2...0.0.3) (2023-07-09)
 
 
