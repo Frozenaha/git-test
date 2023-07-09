@@ -1,5 +1,12 @@
 
 
+### [0.0.5](https://github.com/Frozenaha/git-test/compare/0.0.4...0.0.5) (2023-07-09)
+
+
+### ✨新功能
+
+* feat3 ([f45d906](https://github.com/Frozenaha/git-test/commit/f45d906fe10ebfa6241adf86535e9ddee26a4060))
+
 ### [0.0.4](https://github.com/Frozenaha/git-test/compare/0.0.3...0.0.4) (2023-07-09)
 
 
