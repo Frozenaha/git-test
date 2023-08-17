@@ -10,6 +10,7 @@
     "release": "release-it"
   },
   "dependencies": {
+    "dayjs": "^1.11.9",
     "release-it": "^15.11.0",
     "umi": "^4.0.71"
   },
